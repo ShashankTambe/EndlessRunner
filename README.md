@@ -1,4 +1,4 @@
-This game is my first game in Unity, this was and is a solo effort as of April 2025 and I intend to develop this and release it in the near future.
+This game is my first mobile game in Unity, this was and is a solo effort as of April 2025 and I intend to develop this and release it in the near future.
 
 Some screnshots of the game as Version 4.0.0:
 ![Screenshot_2025-04-10-22-21-16-59_258c597e72b375cf42d79df46c0b669d](https://github.com/user-attachments/assets/3621b5af-c897-46e5-ab2a-580c0bfd06c1)
